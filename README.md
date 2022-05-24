@@ -5,6 +5,8 @@
 | ![VRMode](http://martinfeick.com/wp-content/uploads/2020/07/VR_Mode.gif)      | ![DesktopMode](http://martinfeick.com/wp-content/uploads/2020/07/DesktopMode.gif)      |
 
 
+#vrquestionnairetoolkit ported to work with OpenXR
+
 This repository hosts the open-source VRQuestionnaireToolkit developed to ease assessing subjective measurements in Virtual Reality. It comes with an easy-to-use Unity3D package which can be integrated in existing projects supporting pre-, in situ- and post-study questionnaires.
 
 This work is provided under a MIT License.
